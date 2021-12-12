@@ -1,0 +1,17 @@
+.canvas {
+    margin-top: 65px;
+    border-style:ridge;
+    border-radius: 20px;
+    border-width: 15px;
+    height: 330px;
+    width: 330px;
+}
+body { 
+    background-image: linear-gradient(cyan , lightblue );
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+}
+#bt{
+    border-radius: 10px;
+    font-size: 2em;
+}
